@@ -1,7 +1,7 @@
 # Premier League Logo Classifier
 Group project for CS539 Fall 2022. 
 
-# Authors:
+# Authors
 Israel Kwilinski, Joshua Du, Ben Schnoor
 
 # Dataset
